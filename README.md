@@ -1,4 +1,5 @@
-# Apple Pay Card - Fintech Case Study
+**Module 1 Challenge**
+# [Apple Card] (https://www.apple.com/apple-card)
 
 ## Overview and Origin
 
