@@ -1,5 +1,8 @@
-**Module 1 Challenge**
-# [Apple Card] (https://www.apple.com/apple-card)
+
+
+
+# Apple Card - Case Study
+![og__dtukeczp0ygm_overview](https://github.com/kevgeedj/Module-1-Challenge/assets/128102960/b92fcf24-7f49-41be-9b7b-bf5310b78b14)
 
 ## Overview and Origin
 
