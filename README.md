@@ -6,7 +6,7 @@
 
 ## Overview and Origin
 
-* What is the name of the company?
+The Apple Card is the first credit card offered by Apple. It is designed to work with the iPhone's Wallet app and Apple Pay. 
 
 * When was the company incorporated?
 
